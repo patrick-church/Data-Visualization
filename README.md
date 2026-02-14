@@ -1,6 +1,7 @@
 ## Data Visualization Final Project
 
-### Project Goal: Uncover what makes a movie successful, closely examining various factors that contribute to a film's reception and financial performance, such as directors, actors, genre, trailer sentiment, and budget.
+### Project Description: 
+To uncover the factors that most impact a Hoolywood film's reception and financial performance, we utilized the Python data visualization libraries Matplotlib.pyplot and Seaborn to develop various types of visualizations using industry movie data, including box plots, line graphs, bar graphs, bubble charts, scatter plots, and pie charts, visualizing variables such as directors, actors, genre, trailer sentiment, and budget, to understand how they impact a film's overall success. We constructed a report to house our visualizations and describe the insights our visualizations showcase.
 
 ### Project Data: We used two publicly available movie datasets for our visualiztion analysis, merging them to gain a more widespread and accurate understanding of the film industry's dynamics.
 
