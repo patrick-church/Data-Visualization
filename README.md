@@ -2,7 +2,7 @@
 
 ### Project Goal: Uncover what makes a movie successful, closely examining various factors that contribute to a film's reception and financial performance, such as directors, actors, genre, trailer sentiment, and budget.
 
-### Project Data: We used two publicly available movie datasets for our visualiztion analysis
+### Project Data: We used two publicly available movie datasets for our visualiztion analysis, merging them to gain a more widespread and accurate understanding of the film industry's dynamics.
 
 Both datasets can be found on Kaggle:
 
