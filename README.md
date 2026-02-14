@@ -4,7 +4,7 @@
 
 ### Project Data: We used two publicly available movie datasets for our visualiztion analysis, merging them to gain a more widespread and accurate understanding of the film industry's dynamics.
 
-Both datasets can be found on Kaggle:
+#### Both datasets can be found on Kaggle:
 
 ● IMDb Dataset: Comprised of several features like titles, genres, ratings, release dates, synopses, cast and crew, budgets, and production details, which is ideal for predictive modeling of film success.
 
