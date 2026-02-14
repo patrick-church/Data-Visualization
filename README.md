@@ -13,3 +13,6 @@ Link: https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset?resour
 ● YouTube Movie Trailers Dataset: Shares many features with the IMDb dataset but also provides trailer sentiment analysis.
 
 Link: https://www.kaggle.com/datasets/dineshvasired/movies-youtube-trailers-and-sentimentdinesh-dinesh
+
+
+### Methodology: Utilized the Python data visualization libraries Matplotlib.pyplot and Seaborn to develop various types of visualizations, including box plots, line graphs, bar graphs, bubble charts, scatter plots, and pie charts, to visualize the factors that impact a movie's reception and financial performance.
