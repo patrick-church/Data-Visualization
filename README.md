@@ -1,4 +1,4 @@
-## Data Visualization final project
+## Data Visualization Final Project
 
 ### Project Goal: Uncover what makes a movie successful, closely examining various factors that contribute to a film's reception and financial performance, such as directors, actors, genre, trailer sentiment, and budget.
 
